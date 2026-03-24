@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 7fbdc91b9dc08226ee37e7ca6e408fce9bc81feb
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
